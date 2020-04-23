@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TestNgSampleProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestNgSampleProject_jar</output-path>
+    <root id="archive" name="TestNgSampleProject.jar">
+      <element id="module-output" name="TestNgSampleProject" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Downloads/selenium-java-3.141.59/client-combined-3.141.59.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Downloads/selenium-java-3.141.59/client-combined-3.141.59-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Downloads/selenium-server-standalone-3.141.59.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/../Downloads/geckodriver" />
+      <element id="file-copy" path="$PROJECT_DIR$/../Downloads/chromedriver" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/testng/testng/7.1.0/testng-7.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/beust/jcommander/1.72/jcommander-1.72.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
